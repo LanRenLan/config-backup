@@ -1,0 +1,150 @@
+
+s1.hdslb.com##.iconLogo
+
+www.bilibili.com##.iconLogo
+
+message.bilibili.com##.iconLogo
+
+
+chat.openai.com##.rounded-md.bg-yellow-200.py-0\.5.px-1\.5.text-xs.font-medium.uppercase.text-gray-800
+
+ks.wjx.top###zhezhao2 > div:nth-of-type(1)
+
+ks.wjx.top##.pop-content1
+
+ks.wjx.top##.popup
+
+ks.wjx.top###zhezhao2
+
+ks.wjx.top##<link rel="stylesheet" href="//image.wjx.cn/joinnew/css/jqmobo.css?v=2953">
+passport.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fweixin_43466192%2Farticle%2Fdetails%2F121410550&iframe=true&newframe=true&version=loginv3"]
+
+blog.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fweixin_43466192%2Farticle%2Fdetails%2F121410550&iframe=true&newframe=true&version=loginv3"]
+
+passport.csdn.net###passportbox > span
+
+blog.csdn.net###passportbox > span
+
+pinyin.sogou.com##[src*="http://img02.sogoucdn.com/app/a/11130001/5b45b99c5a817.jpg"]
+
+blog.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Ftmjdone%2Farticle%2Fdetails%2F5627239&iframe=true&newframe=true&version=loginv3"]
+
+passport.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Ftmjdone%2Farticle%2Fdetails%2F5627239&iframe=true&newframe=true&version=loginv3"]
+
+passport.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Ftouxiong%2Farticle%2Fdetails%2F86233805&iframe=true&newframe=true&version=loginv3"]
+
+blog.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Ftouxiong%2Farticle%2Fdetails%2F86233805&iframe=true&newframe=true&version=loginv3"]
+
+passport.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fqq_37284020%2Farticle%2Fdetails%2F103991649&iframe=true&newframe=true&version=loginv3"]
+
+blog.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fqq_37284020%2Farticle%2Fdetails%2F103991649&iframe=true&newframe=true&version=loginv3"]
+
+blog.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fqq_57457856%2Farticle%2Fdetails%2F124823603&iframe=true&newframe=true&version=loginv3"]
+
+passport.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fqq_57457856%2Farticle%2Fdetails%2F124823603&iframe=true&newframe=true&version=loginv3"]
+
+wenku.baidu.com###app-right
+
+blog.csdn.net##.aside-content
+
+blog.csdn.net##.aside-title
+
+c.biancheng.net###addweixin-widget
+
+c.biancheng.net##[href*="http://vip.biancheng.net/p/vip/show.php"]
+
+c.biancheng.net##[href*="http://vip.biancheng.net/p/q2a/show.php"]
+
+c.biancheng.net##[href*="http://fudao.biancheng.net/"]
+
+c.biancheng.net###ggxc-arctop-pc-1 > p
+
+www.manhuaren.com##[src*="https://css122us.cdnmanhua.net/v202303131713/manhuaren/images/mobile/guide-2.png"]
+
+www.manhuaren.com###guide_1
+
+c.biancheng.net###ggxc-weixin-arcbottom > p:nth-of-type(2)
+
+juejin.cn##.nav-item.add.creator-item
+
+juejin.cn##.vip-title
+
+juejin.cn##.download-app.no-border
+
+juejin.cn##.broswer-extension.no-border
+
+juejin.cn##.tablead
+
+juejin.cn##.btn.meiqia-btn
+
+#破ptt
+
+www.pttime.org/js/watermark.js
+
+
+
+www.pttime.org###ad_belownav
+
+www.pttime.org##span.tal.ml10:nth-of-type(6) > .fcs
+
+www.pttime.org##.btn.btn-danger
+
+www.pttime.org##.right.clearfix > .right > font.fcg
+
+www.pttime.org##.icon.pt-qqqun-copy.ml10.fcs
+
+www.pttime.org##span.ml5.fcr:nth-of-type(3)
+
+www.pttime.org##span.ml5.fcr:nth-of-type(1)
+
+www.pttime.org##span.ml5.fcr:nth-of-type(2)
+
+www.pttime.org##.fcb.clearfix > .left
+
+www.pttime.org##[href*="lianghao.php"]
+
+www.pttime.org##.new_user
+
+www.pttime.org##.medium.right
+
+limbopro.com##[src*="https://limbopro.com/usr/uploads/2021/12/2084042701.png"]
+
+platform.twitter.com##[src*="https://limbopro.com/usr/uploads/2021/12/2084042701.png"]
+
+platform.twitter.com##[src*="https://limbopro.com/usr/uploads/2021/12/2084042701.png"]
+
+platform.twitter.com##[src*="https://limbopro.com/usr/uploads/2021/12/2084042701.png"]
+
+platform.twitter.com##[src*="https://limbopro.com/usr/uploads/2021/12/2084042701.png"]
+
+platform.twitter.com##[src*="https://limbopro.com/usr/uploads/2021/12/2084042701.png"]
+
+platform.twitter.com##[src*="https://limbopro.com/usr/uploads/2021/12/2084042701.png"]
+
+limbopro.com##.gsc-control-cse.gsc-control-cse-zh-CN
+
+platform.twitter.com##.gsc-control-cse.gsc-control-cse-zh-CN
+
+platform.twitter.com##.gsc-control-cse.gsc-control-cse-zh-CN
+
+platform.twitter.com##.gsc-control-cse.gsc-control-cse-zh-CN
+
+platform.twitter.com##.gsc-control-cse.gsc-control-cse-zh-CN
+
+platform.twitter.com##.gsc-control-cse.gsc-control-cse-zh-CN
+
+platform.twitter.com##.gsc-control-cse.gsc-control-cse-zh-CN
+
+zh.moegirl.org.cn##.flex.flex-center.desktop-only > div.n-badge:nth-of-type(1) > .n-button.n-button--default-type.n-button--tiny-type
+
+zh.moegirl.org.cn##div.n-badge:nth-of-type(2) > .n-button.n-button--default-type.n-button--tiny-type.dropdown-trigger > .n-button__content
+
+zh.moegirl.org.cn##div.n-badge:nth-of-type(2) > .n-button.n-button--default-type.n-button--tiny-type.dropdown-trigger
+
+zh.moegirl.org.cn##div.n-badge:nth-of-type(2) > .n-badge-sup > .n-base-wave
+
+zh.moegirl.org.cn##div.n-badge:nth-of-type(2) > .n-badge-sup
+
+zh.moegirl.org.cn##.flex.flex-center.desktop-only > div.n-badge:nth-of-type(1) > .n-badge-sup > .n-base-wave
+
+zh.moegirl.org.cn##.flex.flex-center.desktop-only > div.n-badge:nth-of-type(1) > .n-badge-sup
