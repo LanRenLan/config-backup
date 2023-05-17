@@ -5,7 +5,6 @@ www.bilibili.com##.iconLogo
 
 message.bilibili.com##.iconLogo
 
-
 chat.openai.com##.rounded-md.bg-yellow-200.py-0\.5.px-1\.5.text-xs.font-medium.uppercase.text-gray-800
 
 ks.wjx.top###zhezhao2 > div:nth-of-type(1)
@@ -77,11 +76,9 @@ juejin.cn##.tablead
 
 juejin.cn##.btn.meiqia-btn
 
-#破ptt
+#鐮磒tt
 
 www.pttime.org/js/watermark.js
-
-
 
 www.pttime.org###ad_belownav
 
@@ -148,3 +145,807 @@ zh.moegirl.org.cn##div.n-badge:nth-of-type(2) > .n-badge-sup
 zh.moegirl.org.cn##.flex.flex-center.desktop-only > div.n-badge:nth-of-type(1) > .n-badge-sup > .n-base-wave
 
 zh.moegirl.org.cn##.flex.flex-center.desktop-only > div.n-badge:nth-of-type(1) > .n-badge-sup
+
+mobile.twitter.com##.css-1dbjc4n.r-16y2uox.r-1wbh5a2.r-1fz3rvf.r-dnmrzs.r-1ny4l3l > div.css-1dbjc4n.r-1wbh5a2.r-dnmrzs.r-1ny4l3l:nth-of-type(1) > .css-1dbjc4n.r-1awozwy.r-18u37iz.r-dnmrzs > .css-901oao.r-1awozwy.r-18jsvk2.r-6koalj.r-37j5jr.r-a023e6.r-b88u0q.r-rjixqe.r-bcqeeo.r-1udh08x.r-3s2u2q.r-qvutc0 > .css-901oao.css-16my406.css-1hf3ou5.r-poiln3.r-bcqeeo.r-qvutc0
+
+mobile.twitter.com##.css-1dbjc4n.r-16y2uox.r-1wbh5a2.r-1fz3rvf.r-dnmrzs.r-1ny4l3l > .css-1dbjc4n.r-1awozwy.r-18u37iz.r-1wbh5a2 > .css-1dbjc4n.r-1wbh5a2.r-dnmrzs.r-1ny4l3l > .css-1dbjc4n > .css-901oao.css-1hf3ou5.r-14j79pv.r-18u37iz.r-37j5jr.r-1wvb978.r-a023e6.r-16dba41.r-rjixqe.r-bcqeeo.r-qvutc0 > .css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0
+
+s1.hdslb.com##div.toolbar-item:nth-of-type(2)
+
+message.bilibili.com##div.toolbar-item:nth-of-type(2)
+
+s.xmcp.ltd##div.toolbar-item:nth-of-type(2)
+
+s.xmcp.ltd##div.toolbar-item:nth-of-type(2)
+
+www.bilibili.com##div.toolbar-item:nth-of-type(2)
+
+www.youtube.com##.ytp-ce-element.ytp-ce-website.ytp-ce-medium-round.ytp-ce-top-right-quad.ytp-ce-size-1280.ytp-ce-element-show > .ytp-ce-element-shadow
+
+www.youtube.com##.ytp-ce-covering-overlay
+
+www.youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-large-round.ytp-ce-bottom-right-quad.ytp-ce-size-1280.ytp-ce-element-show > .ytp-ce-element-shadow
+
+www.youtube.com##.ytp-ce-covering-image
+
+www.youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-large-round.ytp-ce-bottom-right-quad.ytp-ce-size-1280.ytp-ce-element-show
+
+www.youtube.com##.ytp-ce-expanding-image
+
+www.youtube.com##.ytp-ce-element.ytp-ce-website.ytp-ce-medium-round.ytp-ce-top-right-quad.ytp-ce-size-1280.ytp-ce-element-show
+
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.style-scope.ytd-menu-renderer:nth-of-type(1) > yt-button-shape > .yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response > .yt-spec-touch-feedback-shape__fill
+
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.style-scope.ytd-menu-renderer:nth-of-type(1) > yt-button-shape > .yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response > .yt-spec-touch-feedback-shape__stroke
+
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.style-scope.ytd-menu-renderer:nth-of-type(1) > yt-button-shape > .yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
+
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.style-scope.ytd-menu-renderer:nth-of-type(1) > yt-button-shape
+
+www.youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--overlay-touch-response > .yt-spec-touch-feedback-shape__fill
+
+www.youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--overlay-touch-response > .yt-spec-touch-feedback-shape__stroke
+
+www.youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--overlay-touch-response
+
+www.youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-only-default
+
+accounts.google.com##.XDyW0e
+
+www.google.com##.XDyW0e
+
+ogs.google.com##.XDyW0e
+
+www.google.com##.FPdoLc.lJ9FBc > center
+
+accounts.google.com##.FPdoLc.lJ9FBc > center
+
+ogs.google.com##.FPdoLc.lJ9FBc > center
+
+www.google.com##div.hdtb-mitem:nth-of-type(5) > [href*="/search"]
+
+accounts.google.com##div.hdtb-mitem:nth-of-type(5) > [href*="/search"]
+
+www.youtube.com##div.hdtb-mitem:nth-of-type(5) > [href*="/search"]
+
+www.google.com##div.hdtb-mitem:nth-of-type(5) > [href*="/search"]
+
+ogs.google.com##div.hdtb-mitem:nth-of-type(5) > [href*="/search"]
+
+accounts.google.com##.EpPYLd.CjiZvb > .YpcDnf.OSrXXb.HG1dvd > [href*="/search"]
+
+www.youtube.com##.EpPYLd.CjiZvb > .YpcDnf.OSrXXb.HG1dvd > [href*="/search"]
+
+www.google.com##.EpPYLd.CjiZvb > .YpcDnf.OSrXXb.HG1dvd > [href*="/search"]
+
+www.google.com##.EpPYLd.CjiZvb > .YpcDnf.OSrXXb.HG1dvd > [href*="/search"]
+
+ogs.google.com##.EpPYLd.CjiZvb > .YpcDnf.OSrXXb.HG1dvd > [href*="/search"]
+
+www.youtube.com##[href*="https://www.google.com/finance"]
+
+accounts.google.com##[href*="https://www.google.com/finance"]
+
+www.google.com##[href*="https://www.google.com/finance"]
+
+www.google.com##[href*="https://www.google.com/finance"]
+
+ogs.google.com##[href*="https://www.google.com/finance"]
+
+accounts.google.com##div.hdtb-mitem:nth-of-type(4) > [href*="/search"]
+
+www.google.com##div.hdtb-mitem:nth-of-type(4) > [href*="/search"]
+
+ogs.google.com##div.hdtb-mitem:nth-of-type(4) > [href*="/search"]
+
+www.google.com##div.hdtb-mitem:nth-of-type(4) > [href*="/search"]
+
+ogs.google.com##a.NZmxZe:nth-of-type(3)
+
+accounts.google.com##a.NZmxZe:nth-of-type(3)
+
+www.google.com##a.NZmxZe:nth-of-type(3)
+
+ogs.google.com##a.NZmxZe:nth-of-type(4)
+
+accounts.google.com##a.NZmxZe:nth-of-type(4)
+
+www.google.com##a.NZmxZe:nth-of-type(4)
+
+api.recurly.com##.popup-pad
+
+www.google.com##.popup-pad
+
+accounts.google.com##.popup-pad
+
+www.google.com##.popup-pad
+
+www.google.com##.popup-container.popup-style-hybrid.popup-on
+
+api.recurly.com##.popup-container.popup-style-hybrid.popup-on
+
+accounts.google.com##.popup-container.popup-style-hybrid.popup-on
+
+www.google.com##.popup-container.popup-style-hybrid.popup-on
+
+www.amazon.com###nav-main
+
+www.amazon.com###anonCarousel3 > .a-carousel
+
+www.amazon.com###CardInstanceoqIO2yxpXDXc9qy2yIMtVg > .a-section.a-spacing-large > div:nth-of-type(2) > .a-begin.a-carousel-container.a-carousel-display-swap.a-carousel-transition-swap.p13n-sc-shoveler.p13n-carousel-initialized.a-carousel-initialized > div.a-row:nth-of-type(1) > ._cDEzb_p13n-flex-container-header-kebab_3IZ27
+
+www.amazon.com###anonCarousel3
+
+www.amazon.com###rhf-shoveler
+
+www.amazon.com##.a-box.bia-content > .a-box-inner
+
+www.amazon.com##.a-box.bia-content
+
+www.amazon.com###LiRQJzn7x6ETznkzYMRo3w
+
+www.amazon.com###aJp7wAyKXD2lGVurL9pmfQ
+
+www.amazon.com###desktop-grid-2-AB
+
+www.amazon.com###desktop-grid-4
+
+www.amazon.com###h9QWOzoxFz-Ljuo2IGnFBw
+
+www.amazon.com###desktop-grid-5
+
+www.amazon.com###desktop-btf-grid-3
+
+www.amazon.com###desktop-btf-grid-2
+
+www.amazon.com###h5VYU0rDRsWez6OEZcA85g
+
+www.amazon.com###\39 65f48a3-e6e9-4a69-bfa7-7325be5d19ba
+
+www.amazon.com###\35 4c61908-fd5d-409f-977e-cc989f49e9af
+
+www.amazon.com###CardInstancer0Z1uKWD4zEGe9ZUg8BRlg
+
+www.amazon.com###d230f45e-0931-41eb-807f-7c1f6c457bf4
+
+www.amazon.com###CardInstance53JFvpUsj3Le20EYy2xVsA
+
+www.amazon.com###\37 i0MwqubpGVS-hVhDOg30w > .a-section.a-spacing-none._cropped-image-map_style_fluid-image-map-container__3GBMh > .a-section.a-spacing-none._cropped-image-map_style_image-map__12oiu > [href*="/b/"]
+
+www.amazon.com###\37 i0MwqubpGVS-hVhDOg30w > .a-section.a-spacing-none._cropped-image-map_style_fluid-image-map-container__3GBMh > .a-section.a-spacing-none._cropped-image-map_style_image-map__12oiu > .a-section.a-spacing-none._cropped-image-map_style_fluidImageContainer__2jd50 > ._cropped-image-map_style_fluidLandscapeImage__3eTVC._cropped-image-map_style_fluidImage__iJ3aE
+
+www.amazon.com###icp-nav-flyout
+
+keepa.com###initPage > div:nth-of-type(1) > .pL
+
+www.amazon.com###initPage > div:nth-of-type(1) > .pL
+
+keepa.com###nav-subnav
+
+www.amazon.com###nav-subnav
+
+keepa.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+www.amazon.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+keepa.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+www.amazon.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+www.amazon.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+keepa.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+www.amazon.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+keepa.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+www.amazon.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+keepa.com##.legendTable > tbody:nth-of-type(1) > tr:nth-of-type(4) > .legendLabel
+
+www.amazon.com##.bbop-grid-container.a-spacing-small.a-row
+
+keepa.com##tr:nth-of-type(16) > .legendLabel
+
+www.amazon.com##tr:nth-of-type(16) > .legendLabel
+
+www.amazon.com##.maple-banner__col.a-padding-base.a-section
+
+www.zhihu.com##.AppBanner-layout
+
+www.zhihu.com##li.Tabs-item.AppHeader-Tab.Tabs-item--noMeta:nth-of-type(3)
+
+www.zhihu.com##.css-1170n61
+
+www.zhihu.com##.Footer
+
+www.sohu.com##.back-sohu.prize-survey > [href*="http://www.sohu.com/"]
+
+www.sohu.com##.back-sohu.prize-survey
+
+www.sohu.com##[href*="http://fbp.sohu.com/fbp/problem/essay"] > em
+
+www.sohu.com##[href*="http://fbp.sohu.com/fbp/problem/essay"]
+
+www.sohu.com##.user-feedback
+
+baike.baidu.com###J-bds_task
+
+
+blog.csdn.net##.logo-advert-back.link-img
+
+web.archive.org###wm-ipp-base
+
+archive.org###wm-ipp-base
+
+pan.baidu.com##.share-center
+
+pan.baidu.com##[href*="https://isite.baidu.com/site/wjz9oz8/6010d0d0-3d62-4580-9df1-ae30a986770b"]
+
+pan.baidu.com##.gOIbzPb
+
+www.ofweek.com##[src*="//images.ofweek.com/images/logo/online2.gif"]
+
+ykf-webchat.7moor.com##[src*="//images.ofweek.com/images/logo/online2.gif"]
+
+www.ofweek.com##[src*="//images.ofweek.com/images/ofweekads/120X400_1666679293139.gif"]
+
+ykf-webchat.7moor.com##[src*="//images.ofweek.com/images/ofweekads/120X400_1666679293139.gif"]
+
+www.google.com##.ptJHdc.commercial-unit-desktop-rhs.VjDLd > div:nth-of-type(1) > div:nth-of-type(1)
+
+www.youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-medium-round.ytp-ce-bottom-right-quad.ytp-ce-size-640.ytp-ce-element-show > .ytp-ce-element-shadow
+
+www.bilibili.com###TMGobtn
+
+message.bilibili.com###TMGobtn
+
+www.bilibili.com###TMbtn
+
+message.bilibili.com###TMbtn
+
+soft.3dmgame.com##video
+
+t.captcha.qq.com##video
+
+iknow.lenovo.com.cn##.question
+
+iknow.lenovo.com.cn##.detailadClose
+
+zh.moegirl.org.cn##.toolbar-inner-container
+
+web.archive.org##.grid.uls-menu
+
+archive.org##.grid.uls-menu
+
+web.archive.org###live2d
+
+archive.org###live2d
+
+web.archive.org###NewuserTips
+
+archive.org###NewuserTips
+
+web.archive.org###p-tb > .body > ul
+
+archive.org###p-tb > .body > ul
+
+www.btbtt15.com##.width.imgs_1
+
+www.abackup.com##.js-toc-box
+
+www.deepl.com##[href*="https://deepl.typeform.com/translatornt-zh"]
+
+www.deepl.com##.dl_header_menu_v2__buttons
+
+www.deepl.com##div.dl_ad_pro_container:nth-of-type(1)
+
+www.deepl.com##.dl_app_ad.dl_top_element.dl_top_element--wide.app_ad_mobile_and_desktop
+
+www.deepl.com###dl_quotes_container
+
+www.deepl.com###apps-link-free-badge
+
+www.deepl.com###dl_menu_deepl_pro
+
+www.deepl.com###dl_menu_plans_and_pricing
+
+www.deepl.com###dl_menu_deepl_why_deepl
+
+www.deepl.com##.content--mhxL7
+
+www.deepl.com##.lmt__textarea_container.lmt__textarea_proAd--visible > .lmt__ad_charLimit_container
+
+mp.weixin.qq.com##.qr_code_pc
+
+zh.moegirl.org.cn##[src*="https://app.moegirl.org.cn/ads/zh/20221230-hcollege/1640x160.jpg"]
+
+! 2023-04-06 https://limbopro.com
+||limbopro.com/usr/uploads/2021/03/3476932119.png$image
+||limbopro.com/usr/uploads/2021/03/2420019737.png$image
+
+! 2023-04-08 https://www.amazon.com
+www.amazon.com##.bbop-grid-container.a-spacing-small.a-row
+www.amazon.com##.maple-banner__col.a-padding-base.a-section
+www.amazon.com##._p13n-desktop-sims-fbt_fbt-desktop_sims-fbt-containter__2Cffh.a-cardui
+www.amazon.com##._cDEzb_p13n-flex-container-header-kebab_3IZ27
+www.amazon.com###CardInstance2nHAhlhMj9Aj9NuqKHt8xw > .bucketDivider.a-divider-normal
+www.amazon.com##._p13n-desktop-sims-fbt_fbt-desktop_fbt-card__1_smM.bucket.cardRoot > h2
+www.amazon.com###GridgetContainer > .a-row
+www.amazon.com##div.a-grid-center.a-grid-vertical-align.a-row > .a-text-center.a-span12.a-column
+www.amazon.com##.ssf-background
+www.amazon.com###sc-active-C71cbe88a-a113-4506-ac1f-359af61fe137 > .sc-list-item-content > .sc-list-item-content-inner.a-grid-top.a-grid-vertical-align.a-row > div.sc-item-content-group > .a-spacing-base.a-vertical.a-nostyle.a-unordered-list > li > .a-list-item > .sc-gift-option-container.sc-invisible-when-no-js > .a-spacing-top-micro.a-size-small.a-align-top.sc-gift-option.a-checkbox
+www.amazon.com###desktop-grid-2 > .fluid-card.fluid-fat-image-link.a-cardui
+||m.media-amazon.com/images/I/61YimwY6OfL._SX3000_.jpg$image
+||m.media-amazon.com/images/I/61YimwY6OfL._SX3000_.jpg$image
+www.amazon.com###desktop-btf-grid-1 > .fluid-card.fluid-fat-image-link.a-cardui
+www.amazon.com##.pd_rd_r-d3e9a11f-cd50-4143-a654-7c53388cc4cb.pd_rd_w-a1XPT.pd_rd_wg-VYXHE.celwidget.desktop-gateway-btf_cc5d11fb-113a-4e65-8c3e-4d906daa8626.csm-placement-id-5bd7b36d-ccec-42d8-866f-21633b915267.gw-col
+www.amazon.com##.pd_rd_r-d3e9a11f-cd50-4143-a654-7c53388cc4cb.pd_rd_w-JqSeW.pd_rd_wg-VYXHE.celwidget.desktop-gateway-btf_a8f401aa-6e13-4344-8a16-cb905ef4754d.csm-placement-id-ba1a0b49-9c7e-4870-9cd1-e54492236b5f.gw-col
+
+
+www.youtube.com###voice-search-button > .style-scope.ytd-masthead > yt-button-shape
+
+www.pttime.org##span.fcg
+
+www.pttime.org##.bn.p55.dib.ml10.mb10.tal > b > font:nth-of-type(1) > .fcr
+
+www.pttime.org##p.fcg
+
+github.com###feature-enrollment-toggle > .dropdown-item.btn-link
+
+github.com###feature-enrollment-toggle > .unread-indicator.js-feature-preview-indicator
+
+github.com##.details-overlay.details-reset.js-feature-preview-indicator-container > .Header-link > .unread-indicator.js-feature-preview-indicator
+
+github.com##.position-relative.d-flex.flex-items-center.pb-2.f6.color-fg-muted.border-top.color-border-muted.flex-column-reverse.flex-lg-row.flex-wrap.flex-lg-nowrap.mt-6.pt-6
+
+github.com##.Header-item.mr-0.mr-md-3.flex-order-1.flex-md-order-none
+
+developer.aliyun.com###action-btns
+
+cn.aliyun.com###action-btns
+
+developer.aliyun.com##.right-item-box.recommend-box
+
+cn.aliyun.com##.right-item-box.recommend-box
+
+developer.aliyun.com##.right-item-box.ebook-box
+
+cn.aliyun.com##.right-item-box.ebook-box
+
+developer.aliyun.com##.right-item-box.rank-box
+
+cn.aliyun.com##.right-item-box.rank-box
+
+developer.aliyun.com##.author-info
+
+cn.aliyun.com##.author-info
+
+developer.aliyun.com###right-box > .right-item-box.highscore-box
+
+cn.aliyun.com###right-box > .right-item-box.highscore-box
+
+developer.aliyun.com##.developer-common-fixed-box
+
+cn.aliyun.com##.developer-common-fixed-box
+
+developer.aliyun.com##.balloon-box
+
+cn.aliyun.com##.balloon-box
+
+developer.aliyun.com##li:nth-of-type(12)
+
+cn.aliyun.com##li:nth-of-type(12)
+
+twitter.com##.css-18t94o4.css-1dbjc4n.r-1awozwy.r-sdzlij.r-6koalj.r-18u37iz.r-1ny4l3l.r-xyw6el.r-o7ynqc.r-6416eg > div.css-1dbjc4n.r-1wbh5a2.r-dnmrzs.r-1ny4l3l:nth-of-type(2)
+
+twitter.com##div.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:nth-of-type(3) > div.css-1dbjc4n:nth-of-type(1) > .css-1dbjc4n.r-1loqt21.r-6koalj.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg
+
+twitter.com##div.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:nth-of-type(2) > div.css-1dbjc4n:nth-of-type(1) > .css-1dbjc4n.r-1wtj0ep.r-1ny4l3l.r-ymttw5.r-1f1sjgu
+
+twitter.com##div.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:nth-of-type(4) > div.css-1dbjc4n:nth-of-type(1) > .css-1dbjc4n.r-1loqt21.r-6koalj.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg
+
+twitter.com##div.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:nth-of-type(5) > div.css-1dbjc4n:nth-of-type(1) > .css-1dbjc4n.r-1loqt21.r-6koalj.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg
+
+twitter.com##div.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:nth-of-type(6) > div.css-1dbjc4n:nth-of-type(1) > .css-1dbjc4n.r-1loqt21.r-6koalj.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg
+
+twitter.com##div.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:nth-of-type(7) > div.css-1dbjc4n:nth-of-type(1) > .css-1dbjc4n.r-1loqt21.r-6koalj.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg
+
+twitter.com##div.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:nth-of-type(8) > div.css-1dbjc4n > .css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1ny4l3l.r-ymttw5.r-1yzf0co.r-o7ynqc.r-6416eg
+
+twitter.com##.css-1dbjc4n.r-18u37iz.r-1w6e6rj.r-ymttw5
+
+twitter.com##a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1habvwh.r-1loqt21.r-6koalj.r-eqz5dr.r-16y2uox.r-1ny4l3l.r-oyd9sg.r-13qz1uu:nth-of-type(6)
+
+accounts.google.com##.b8.UC.bAp > .J-J5-Ji > .vh
+
+contacts.google.com##.b8.UC.bAp > .J-J5-Ji > .vh
+
+mail.google.com##.b8.UC.bAp > .J-J5-Ji > .vh
+
+ogs.google.com##.b8.UC.bAp > .J-J5-Ji > .vh
+
+accounts.google.com###\:m0
+
+contacts.google.com###\:m0
+
+mail.google.com###\:m0
+
+ogs.google.com###\:m0
+
+accounts.google.com##.brC-bsf-aT5-aOt
+
+contacts.google.com##.brC-bsf-aT5-aOt
+
+mail.google.com##.brC-bsf-aT5-aOt
+
+ogs.google.com##.brC-bsf-aT5-aOt
+
+contacts.google.com##.brC-aT5-aOt-bsf-Jw
+
+accounts.google.com##.brC-aT5-aOt-bsf-Jw
+
+mail.google.com##.brC-aT5-aOt-bsf-Jw
+
+ogs.google.com##.brC-aT5-aOt-bsf-Jw
+
+accounts.google.com##.brC-aT5-aOt-Jw
+
+contacts.google.com##.brC-aT5-aOt-Jw
+
+mail.google.com##.brC-aT5-aOt-Jw
+
+ogs.google.com##.brC-aT5-aOt-Jw
+
+accounts.google.com###lZwQje
+
+contacts.google.com###lZwQje
+
+mail.google.com###lZwQje
+
+ogs.google.com###lZwQje
+
+www.sohu.com##.author-subscribe
+
+www.sohu.com###abroad-share-box > div:nth-of-type(1)
+
+www.sohu.com###main-news > .clear
+
+www.sohu.com###backsohucom
+
+www.sohu.com##.bottom-relate-wrap.clear.type-3
+
+www.sohu.com##.sunshine-title
+
+www.sohu.com##.sunshine-wrap
+
+www.reddit.com##._3Wg53T10KuuPmyWOMWsY2F.Z_HUY3BUsGOBOtdmH94ZS._2iuoyPiKHN3kfOoeIQalDT._2tU8R9NTqhvBrhoNAXWWcP.HNozj_dKjQZ59ZsfEegz8._1tPpYVD73ugqp4k-VMFRki._2nelDm85zKKmuD94NequP0
+
+www.reddit.com##._2YJDRz5rCYQfu8YdgB_neb._1G4yU68P50vRZ4USXfaceV
+
+www.linuxmi.com###media_image-3
+
+www.baidu.com###content_right > table > tbody > tr > td
+
+www.zhihu.com##.Card-section.RelatedCommodities-list
+
+www.zhihu.com##.Card-header.RelatedCommodities-title
+
+hdmayi.com###outer > div:nth-of-type(1) > b > span > font
+
+cloud.tencent.com##.com-2-panel.side.J-specialTopicPanel
+
+cloud.tencent.com##.com-2-panel.side.J-activityRecommend
+
+cloud.tencent.com##.com-2-section.com-side-public
+
+cloud.tencent.com##.main-cnt
+
+cloud.tencent.com##[src*="https://ask.qcloudimg.com/raw/yehe-1933968238b1680/7dafl36p6h.png"]
+
+chat.openai.com##a.flex.py-3.px-3.items-center.gap-3.rounded-md.hover\:bg-gray-500\/10.transition-colors.duration-200.text-white.cursor-pointer.text-sm:nth-of-type(2)
+
+www.youtube.com###img
+
+www.youtube.com##.yt-mealbar-promo-renderer-content.style-scope.yt-mealbar-promo-renderer
+
+www.youtube.com##.button-container.style-scope.yt-mealbar-promo-renderer
+
+www.google.com##div.ch-bubble.rendered:nth-of-type(31)
+
+www.google.com##div.ch-bubble.rendered:nth-of-type(31)
+
+www.google.com##div.ch-bubble.rendered:nth-of-type(35)
+
+www.google.com##div.ch-bubble.rendered:nth-of-type(35)
+
+www.mathway.com##div.ch-bubble.rendered:nth-of-type(45)
+
+www.google.com##div.ch-bubble.rendered:nth-of-type(45)
+
+www.google.com##div.ch-bubble.rendered:nth-of-type(45)
+
+www.mathway.com##.ch-bubble-content.clickable
+
+www.google.com##.ch-bubble-content.clickable
+
+www.google.com##.ch-bubble-content.clickable
+
+www.google.com##.ch-bubble-action.ch-bubble-privacy
+
+www.google.com##.ch-bubble-action.ch-bubble-privacy
+
+www.mathway.com##div.ch-bubble.rendered:nth-of-type(22)
+
+www.google.com##div.ch-bubble.rendered:nth-of-type(22)
+
+www.google.com##div.ch-bubble.rendered:nth-of-type(22)
+
+my.iusd.org##.custom-text > h3:nth-of-type(1) > span:nth-of-type(1) > h3:nth-of-type(2) > span:nth-of-type(1) > span:nth-of-type(1) > span
+
+my.iusd.org##div.login-box:nth-of-type(2)
+
+my.iusd.org##h3:nth-of-type(4)
+
+my.iusd.org##.custom-text > h3:nth-of-type(3)
+
+my.iusd.org##.custom-text > h3:nth-of-type(1) > span:nth-of-type(1) > p:nth-of-type(1)
+
+www.linuxprobe.com##[src*="https://www.linuxprobe.com/imgs/peixun.jpg"]
+
+www.linuxprobe.com##.article.container.well > p:nth-of-type(1)
+
+www.linuxprobe.com###text-36 > .textwidget > p:nth-of-type(1) > .alignnone
+
+www.linuxprobe.com###text-36 > .textwidget
+
+www.linuxprobe.com##.alignleft.wp-image-193323.size-full
+
+juejin.cn##.banner
+
+www.youtube.com##.ytp-endscreen-content
+
+baike.baidu.com###J-declare
+
+
+
+baike.baidu.com###second-video-player-5c6aeea7-d692-493d-ae98-44d3f2497d49
+
+baike.baidu.com##.video-list-viewport
+
+baike.baidu.com###J-video-list-container
+
+baike.baidu.com##.btn-list
+
+baike.baidu.com##.miaodong-logo
+
+baike.baidu.com##.navbar-bg-top
+
+baike.baidu.com##.top-collect.top-tool-icon
+
+baike.baidu.com###j-top-vote
+
+baike.baidu.com##.bksharebuttonbox.top-share
+
+baike.baidu.com##.share-list
+
+baike.baidu.com###J-wgt-footer-main
+
+zh.wikipedia.org##.box-问题条目.plainlinks.metadata.ambox.ambox-content.ambox-multiple_issues.compact-ambox
+
+m.huxiu.com###qr_code_pc
+
+m.huxiu.com##.bottom-open-app-btn.js-bottom-open-app-btn.js-top-guide.js-content-open-app
+
+www.google.com##[src*="https://file-paa.zoom.us/VhFpiX11RPuo3eqM3NSeZg/MS4yLhFuBy-0UU47ima2-2j8mGcEyr9e6qq3SEytoy1bgeQF/b589e28b-0a3e-40e2-8a17-54ed7740f84b.png"]
+
+www.google.com##.recaptcha-policy
+
+hs2counseling.zoom.us##.recaptcha-policy
+
+18comic.vip##[src*="/templates/frontend/airav/img/float-right-close.png?v="]
+
+zhidao.baidu.com##.cms-slide.cms-slide-lazy.mod-noshadow
+
+zhidao.baidu.com##.task-list-button
+
+zhidao.baidu.com##.jump-top-box
+
+zhidao.baidu.com###answer-bar
+
+zhidao.baidu.com##.text-chain-wrapper
+
+zhidao.baidu.com##.nav-menu.line
+
+zhidao.baidu.com##.nav-show-control
+
+www.amazon.com##.a-box.a-alert-inline.a-alert-inline-success > .a-box-inner.a-alert-container > .a-alert-content
+
+www.amazon.com##.a-row.sc-sss
+
+quizizz.com##.py-4.ml-8.w-80 > div:nth-of-type(1)
+
+hanime1.me##div.hidden-xs.hidden-sm:nth-of-type(1)
+
+newassets.hcaptcha.com##div.hidden-xs.hidden-sm:nth-of-type(1)
+
+newassets.hcaptcha.com##div.hidden-xs.hidden-sm:nth-of-type(1)
+
+newassets.hcaptcha.com##div.hidden-xs.hidden-sm:nth-of-type(1)
+
+newassets.hcaptcha.com##div.hidden-xs.hidden-sm:nth-of-type(1)
+
+hanime1.me###myHeader
+
+newassets.hcaptcha.com###myHeader
+
+newassets.hcaptcha.com###myHeader
+
+newassets.hcaptcha.com###myHeader
+
+newassets.hcaptcha.com###myHeader
+
+36kr.com##.app-track-card
+
+36kr.com##.i-want-contribution
+
+36kr.com##.wise-entry-one
+
+36kr.com##.wise-entry-two
+
+36kr.com##.wise-entry-box-box
+
+chat.openai.com##.grow.text-left.text-white
+
+kp.m-team.cc##[src*="pic/forum_pic/cht/donate.gif"]
+
+kp.m-team.cc##[src*="pic/forum_pic/cht/donate.gif"]
+
+kp.m-team.cc##[src*="pic/forum_pic/cht/donate.gif"]
+
+hddid.com###advlist_4_1
+
+zmpt.cc###outer > div:nth-of-type(1)
+
+zmpt.cc##[src*="pic/forum_pic/chs/donate.gif"]
+
+m.pangzitv.com##.div-over
+
+m.pangzitv.com##.div-over
+
+m.pangzitv.com##.div-over
+
+m.pangzitv.com##.div-over
+
+m.pangzitv.com##.div-over
+
+m.pangzitv.com##.div-over
+
+m.pangzitv.com##.div-over
+
+m.pangzitv.com##.div-over
+
+consent.dropbox.com##[src*="https://accounts.google.com/gsi/iframe/select?client_id=801668726815.apps.googleusercontent.com&auto_select=false&ux_mode=popup&ui_mode=card&context=signin&as=nGAx54e7Vu7yrVuUPFLAiQ&channel_id=c021ffd1424fb7f15d8edd1849c68f5964ba141757b392510c0ff7d7094c3f5"]
+
+www.dropbox.com##[src*="https://accounts.google.com/gsi/iframe/select?client_id=801668726815.apps.googleusercontent.com&auto_select=false&ux_mode=popup&ui_mode=card&context=signin&as=nGAx54e7Vu7yrVuUPFLAiQ&channel_id=c021ffd1424fb7f15d8edd1849c68f5964ba141757b392510c0ff7d7094c3f5"]
+
+www.dropbox.com##[src*="https://accounts.google.com/gsi/iframe/select?client_id=801668726815.apps.googleusercontent.com&auto_select=false&ux_mode=popup&ui_mode=card&context=signin&as=nGAx54e7Vu7yrVuUPFLAiQ&channel_id=c021ffd1424fb7f15d8edd1849c68f5964ba141757b392510c0ff7d7094c3f5"]
+
+accounts.google.com##[src*="https://accounts.google.com/gsi/iframe/select?client_id=801668726815.apps.googleusercontent.com&auto_select=false&ux_mode=popup&ui_mode=card&context=signin&as=nGAx54e7Vu7yrVuUPFLAiQ&channel_id=c021ffd1424fb7f15d8edd1849c68f5964ba141757b392510c0ff7d7094c3f5"]
+
+www.newegg.com##.vjs-poster
+
+www.newegg.com##.vjs-poster
+
+secure.newegg.com##.vjs-poster
+
+www.newegg.com###vjs_video_3_html5_api
+
+www.newegg.com###vjs_video_3_html5_api
+
+secure.newegg.com###vjs_video_3_html5_api
+
+www.newegg.com###vjs_video_3
+
+www.newegg.com###vjs_video_3
+
+secure.newegg.com###vjs_video_3
+
+www.newegg.com###floating-live
+
+www.newegg.com###floating-live
+
+secure.newegg.com###floating-live
+
+www.newegg.com##[src*="https://promotions.newegg.com/tools/images/nas-builder-pdp.jpg"]
+
+www.newegg.com##[src*="https://promotions.newegg.com/tools/images/nas-builder-pdp.jpg"]
+
+secure.newegg.com##[src*="https://promotions.newegg.com/tools/images/nas-builder-pdp.jpg"]
+
+twitter.com##.css-901oao.css-16my406.css-1hf3ou5.r-14j79pv.r-18u37iz.r-poiln3.r-1wvb978.r-bcqeeo.r-qvutc0 > .css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0
+
+news.mydrivers.com###i_yuedu_content
+
+comment8.mydrivers.com###i_yuedu_content
+
+www.99csw.com###annotatebox > dl
+
+www.99csw.com##.scrolltop
+
+quizlet.com##.ae1ngc8
+
+m.yhpdm.net##div.gaahzacb_b:nth-of-type(14)
+
+m.yhpdm.net##div.gaahzacb_b:nth-of-type(14)
+
+m.yhpdm.net##div.gaahzacb_b:nth-of-type(13)
+
+m.yhpdm.net##div.gaahzacb_b:nth-of-type(13)
+
+m.yhpdm.net##div.gaahzacb_b:nth-of-type(12)
+
+m.yhpdm.net##div.gaahzacb_b:nth-of-type(12)
+
+m.yhpdm.net##div.gaahzacb_b:nth-of-type(11)
+
+m.yhpdm.net##div.gaahzacb_b:nth-of-type(11)
+
+www.youtube.com##.ytp-ce-element.ytp-ce-playlist.ytp-ce-element-show.ytp-ce-large-round.ytp-ce-bottom-right-quad.ytp-ce-size-1280 > .ytp-ce-element-shadow
+
+www.youtube.com##.ytp-ce-element.ytp-ce-playlist.ytp-ce-element-show.ytp-ce-large-round.ytp-ce-bottom-right-quad.ytp-ce-size-1280
+
+www.youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-element-show.ytp-ce-medium-round.ytp-ce-bottom-left-quad.ytp-ce-size-1280 > .ytp-ce-element-shadow
+
+www.youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-element-show.ytp-ce-medium-round.ytp-ce-bottom-left-quad.ytp-ce-size-1280
+
+www.youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-large-round.ytp-ce-bottom-left-quad.ytp-ce-size-1280 > .ytp-ce-element-shadow
+
+www.youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-large-round.ytp-ce-bottom-left-quad.ytp-ce-size-1280
+
+www.youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-large-round.ytp-ce-bottom-left-quad.ytp-ce-size-1920 > .ytp-ce-element-shadow
+
+www.youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-large-round.ytp-ce-bottom-left-quad.ytp-ce-size-1920
+
+www.youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-element-show.ytp-ce-medium-round.ytp-ce-bottom-left-quad.ytp-ce-size-1920 > .ytp-ce-element-shadow
+
+www.youtube.com##.ytp-ce-expanding-overlay-background
+
+www.youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-element-show.ytp-ce-medium-round.ytp-ce-bottom-left-quad.ytp-ce-size-1920
+
+www.youtube.com##.ytp-ce-element.ytp-ce-playlist.ytp-ce-element-show.ytp-ce-large-round.ytp-ce-bottom-right-quad.ytp-ce-size-1920 > .ytp-ce-element-shadow
+
+www.youtube.com##.ytp-ce-element.ytp-ce-playlist.ytp-ce-element-show.ytp-ce-large-round.ytp-ce-bottom-right-quad.ytp-ce-size-1920
+
+www.translation-services-usa.com##.language-thumb.new-images-style
+
+www.dealmoon.com##.qrcode-box
+
+www.dealmoon.com##.post-btn
+
+www.dealmoon.com##.dm-sg-editor
+
+www.dealmoon.com###rankList > .content
+
+cloud.tencent.com##.cdc-directory__wrap
+
+cloud.tencent.com##.cdc-widget-operations
+
+cloud.tencent.com##.mod-commercial__image
+
+cloud.tencent.com##.mod-commercial
+
+cloud.tencent.com##.cdc-card.cdc-side-public > .cdc-card__inner
+
+cloud.tencent.com##.cdc-widget-global
+
+www.sohu.com###hot-news
+
+juejin.cn##.login-guide-wrap.login-guide-popup
+
+kamept.com##.clear.nowrap > span > font
+
+blog.51cto.com##[src*="https://s2.51cto.com/blog/activity/bride/DetailsBride.gif?x-oss-process=image/ignore-error,1"]
+
+blog.51cto.com##.minmenu > ul
