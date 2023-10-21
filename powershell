@@ -1,0 +1,16 @@
+$registryPaths = Get-ChildItem -Path HKLM:\,HKCU:\ -Recurse -ErrorAction SilentlyContinue | Where-Object { $_.Name -like "*VMware*" }
+
+foreach ($path in $registryPaths) {
+    Remove-Item -Path $path.PSPath -Recurse -ErrorAction SilentlyContinue
+}
+
+$registryItems = Get-ItemProperty -Path HKLM:\*,HKCU:\* -ErrorAction SilentlyContinue | Where-Object { $_.PSChildName -like "*VMware*" -or $_.PSObject.Properties.Value -like "*VMware*" }
+
+foreach ($item in $registryItems) {
+    $itemProperties = $item | Get-Member -MemberType Properties
+    foreach ($property in $itemProperties) {
+        if ($property.Definition -like "*VMware*") {
+            Remove-ItemProperty -Path $item.PSPath -Name $property.Name -ErrorAction SilentlyContinue
+        }
+    }
+}
